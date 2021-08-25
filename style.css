@@ -1,0 +1,50 @@
+body{
+  background-color: black;
+}
+
+/* riffa and salmabad logo start------------------------------------------------------------------------------------*/
+
+.blackfire-logo{
+  position: relative;
+padding-top:20px;
+padding-left:55px;
+}
+
+
+/* riffa and salmabad logo end------------------------------------------------------------------------------------*/
+
+
+/* riffa logo start---------------------------------------------------------------------------------------------------*/
+.riffa{
+ transition-duration: 0.4s;
+color: white;
+margin: 170PX;
+font-size: 30PX;
+}
+.riffa:hover{
+   color:#D2691E;
+}
+
+.riffa-img{
+position: relative;
+padding-left:150PX;
+padding-top: 20px;
+}
+/* riffa logo end ---------------------------------------------------------------------------------------------------*/
+
+/* salmabad logo start------------------------------------------------------------------------------------------------*/
+.salmabad{
+color: white;
+margin: 120PX;
+font-size: 30PX;
+}
+.salmabad:hover{
+   color:#D2691E;
+}
+
+.salmabad-img{
+  position: relative;
+  padding-left:260PX;
+  padding-top: 20px;
+}
+/* salmabad logo end---------------------------------------------------------------------------------------------------*/
